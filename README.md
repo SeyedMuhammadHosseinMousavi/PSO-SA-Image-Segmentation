@@ -3,5 +3,6 @@
 % algorithms, here two strong ones, namely particle swarm optimization and
 % simulated annealing are used.
 % Enjoy!!!
-![PSO + SA Image Segmentation](https://user-images.githubusercontent.com/11339420/152078313-e0ecfa30-7abe-46a2-b74a-c8e774df742f.jpg)
+![PSO + SA Image Segmentation](https://user-images.githubusercontent.com/11339420/152088483-217a73fd-757e-46c8-a25d-a376f8a14032.jpg)
+
 
